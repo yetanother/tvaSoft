@@ -1,0 +1,1 @@
+qmake -t vclib tMatr.pro
